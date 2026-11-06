@@ -1,1 +1,5 @@
-
+aiogram
+yt-dlp
+requests
+setuptools
+wheel
